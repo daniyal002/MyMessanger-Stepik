@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace MyMessanger_Stepik{
+    class Program {
+        static void Main(string[] args) {
+            Console.WriteLine("Hello world");
+        }
+    }
+    }
